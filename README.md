@@ -5,7 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bagusass" alt="bagusass" /></a> </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bagusass&theme=dracula)
+<div style="text-align:center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bagusass&theme=dracula" alt="mystats">
+</div>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=bagusass&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
