@@ -5,17 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bagusass" alt="bagusass" /></a> </p>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bagusass&theme=dracula)
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=bagusass&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=bagusass&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bagusass&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats123-seven.vercel.app/api?username=bagusass&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats123-seven.vercel.app/api/top-langs?username=bagusass&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-- 🔭 I’m currently working on **python**
+- 🔭 I’m currently working on **python, tradingview, pandas**
 
 - 🌱 I’m currently learning **pinescript tradingview**
 
-- 👨‍💻 All of my projects are available at [https://github.com/bagusass](https://github.com/bagusass)
+- 👨‍💻 All of my projects are available at [https://github.com/bagusass](https://github.com/bagusass?tab=repositories)
 
 - 💬 Ask me about **python, javascript**
 
