@@ -13,10 +13,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bagusass&theme=dracula" alt="mystats">
 </p>
 
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=bagusass&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats123-seven.vercel.app/api?username=bagusass&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <!-- <img src="https://github-readme-stats123-seven.vercel.app/api?username=bagusass&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
   <img src="https://github-readme-stats123-seven.vercel.app/api/top-langs?username=bagusass&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
