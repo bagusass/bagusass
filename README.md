@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bagus Khrisna Ardi</h1>
 <h3 align="center">A passionate Backend developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bagusass&label=Profile%20views&color=0e75b6&style=flat" alt="bagusass" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bagusass&label=Profile%20views&color=0e75b6&style=flat" alt="bagusass" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bagusass" alt="bagusass" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bagusass" alt="bagusass" /></a> </p>
 
-<div style="text-align:center">
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bagusass&theme=dracula" alt="mystats">
-</div>
+</p>
 
 
 <div align="center">
